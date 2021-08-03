@@ -1,0 +1,13 @@
+.bg-bannar{
+    background-color: #fceae8;
+}
+.price-btn{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    border: 0;
+    border-radius: 8px;
+    padding: 9px 25px;
+    color: white;
+}
+.img-w{
+    width: 100px;
+}
